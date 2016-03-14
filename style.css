@@ -1,0 +1,75 @@
+
+.calcbox
+{
+margin: auto;
+margin-top: 50px;
+height: 604px;
+width: 382px;
+box-shadow: 0 0 10px #808080;	
+}
+
+#display 
+{
+margin: auto;
+margin-bottom: 10px;
+padding: 10px;
+height: 94px;
+width: 358px;
+font-family: Impact;
+font-size: 40px;
+text-align: right;
+outline: none;
+}
+
+
+.button
+{
+margin: auto;
+padding: 0;
+outline: 0;
+width:95px; height: 95px;
+border: none;
+border-radius: 100%;
+float: left;
+font-family: Impact;
+font-size: 30px;
+text-align: center;
+background: none;
+}
+
+.button:hover
+{
+border: 1px solid #bfbfbf;
+}
+
+
+.button:active {
+color: white;
+text-shadow: 2px 2px #bfbfbf;
+background-color: #d9d9d9;
+box-shadow: 0 0 10px #808080;	
+}
+
+
+#zero
+{
+margin-right: 48px;
+margin-left: 48px;
+}
+
+hr
+{
+margin-top: 150px;
+color: #f2f2f2;
+box-shadow: 0 0 10px #808080;
+}
+
+footer
+{
+margin: auto;
+color: #595959;
+font-family: Impact;
+font-size: 20px;
+text-shadow: 2px 2px #bfbfbf;
+text-align: center;
+}
